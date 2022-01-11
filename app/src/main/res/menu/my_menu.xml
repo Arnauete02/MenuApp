@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:title="@string/music"
+            android:icon="@drawable/ic_musica"
+            android:id="@+id/music"/>
+        <item android:title="@string/museum"
+            android:icon="@drawable/ic_museum"
+            android:id="@+id/museum"/>
+        <item android:title="@string/mathematics"
+            android:icon="@drawable/ic_mathematics"
+            android:id="@+id/mathematics"/>
+        <item android:title="@string/geography"
+            android:icon="@drawable/ic_geography"
+            android:id="@+id/geography"/>
+    </group>
+    <item android:title="Item" >
+        <menu >
+            <group android:checkableBehavior="single">
+                <item android:title="@string/me"
+                    android:icon="@drawable/ic_me"
+                    android:id="@+id/me"/>
+                <item android:title="@string/exams"
+                    android:icon="@drawable/ic_exams"
+                    android:id="@+id/exams"/>
+            </group>
+        </menu>
+    </item>
+</menu>

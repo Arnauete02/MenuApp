@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MenuApp</string>
+    <string name="music">Music</string>
+    <string name="mathematics">Mathematics</string>
+    <string name="geography">Geography</string>
+    <string name="museum">Museum</string>
+    <string name="me">Me</string>
+    <string name="exams">Exams</string>
+    <string name="subtitle">Other things</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>
